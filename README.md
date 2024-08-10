@@ -6,9 +6,9 @@
 
 <!-- TABLE OF CONTENTS -->
 
- # 🔖 Table of Contents
+ # 🔖Table of Contents
 
-- [📑Table of Contents](#table-of-contents)
+- [🔖 Table of Contents](#table-of-contents)
 - [🏗️INCOME PREDICTION](#income-prediction)
   - [🛠Built With ](#-built-with-)
     - [Streamlit ](#streamlit-)
@@ -16,10 +16,10 @@
   - [🥇Getting Started ](#-getting-started-)
     - [📖Prerequisites](#prerequisites)
     - [🏹Setup](#setup)
-    - [⛓️Install](#install)
+    - [⛓️ Install](#install )
     - [🚌Usage](#usage)
   - [☂️Contributing](#contributing)
-  - [🫀Show-your-support](#️show-your-support)
+  - [🫀 Show Support](#️show-support)
   - [🉑Acknowledgments](#acknowledgments-)
   - [📝 License](#license-)
   - [🦹‍♀️ Authors](#authors)
@@ -171,7 +171,7 @@ The dataset has 43 columns and 209499 rows.The features for the training dataset
       env/Scripts/activate
   ```
   
-  ### ⛓️ Install
+  ### ⛓️Install
   Here, you need to recursively install the packages in the `requirements.txt` file using the command below 
   
   ```sh
@@ -191,7 +191,7 @@ The dataset has 43 columns and 209499 rows.The features for the training dataset
 ## ☂️Contributing <a name="contributing"></a>
 Contributions, features and issues are welcome.
 
-## 🫀 Show-your-support <a name="show-your-support"></a>
+## 🫀Show Support <a name="show support"></a>
 If you like this project show some love with a  🌟 **STAR** 🌟.
 
 ## 🉑Acknowledgments <a name="acknowledgements"></a>
